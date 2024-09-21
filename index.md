@@ -45,12 +45,12 @@ Here is the link to the [github.io/Kelptopia-1/](https://trollfacedgamer.github.
 Lastly in Visual Code Studio, I did all the programming in HTML, JS, and CSS, with most of the code being in JS. In Fact, there was so much JS code I had to make another file for it with most of the JS code being for creating buttons because. However, it was the charter creation screen and its associated functions that were the most difficult.
 
 ```
-const leave = document.createElement("button");
-  leave.innerText = "Leave";`
+const leave = document.createElement("button")
+  leave.innerText = "Leave"
   leave.addEventListener("click", () => {
-    priestScene041();
-  });
-  choices.appendChild(leave);
+    priestScene041()
+  })
+  choices.appendChild(leave)
 ```
 ```
 const CharismaLabel = document.createElement("label")
