@@ -47,7 +47,9 @@ Lastly in Visual Code Studio, I did all the programming in HTML, JS, and CSS, wi
 ```
 const leave = document.createElement("button");
   leave.innerText = "Leave";`
-  leave.addEventListener("click", () => {priestScene041();});
+  leave.addEventListener("click", () => {
+    priestScene041();
+  });
   choices.appendChild(leave);
 ```
 ```
