@@ -1,4 +1,4 @@
-<ul>
+</ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -9,14 +9,12 @@
 # Benny's Blog
 
 ## Welcome to my blog
-HHi, my name is Benny I am a senior in high school. 
+Hi, my name is Benny I am a senior in high school and this is my blog. 
 
-I am currently studying Full Stack in STEAM where I learn to code in various. I wish to become a game developer and have made some progress in this regard. You may find some of my works in the project section of my [Personal Website](https://trollfacedgamer.github.io/).
+I am currently studying Full Stack in STEAM where is learn to code in various. I wish to become a game developer and have made some progress in this regard. You may find some of my works in the project section of my [Personal Website](https://trollfacedgamer.github.io/).
 
----
-
-## Kelptopia-1
-### introduction
+## Summer of 2024
+### Introduction
 Over the summer I had 3 primary activities: going to SAT Prep, working on my personal coding project, and Volunteering. The name of this Blog comes from the coding project which is named Kelptopia-1, despite that it was going to SAT Prep that ate up most of my summer. The only other thing of note was my cousin visiting my family.
 SAT Prep
 During the summer because of my poor SAT score of 1110, my mom sent me to summer school at A+ Academy. I went to A+ Academy from Monday to Friday, from 12:30 to 3:30. My experience there was all right and not much different from normal school other than the lack of student to student interactions.
@@ -29,7 +27,7 @@ Though the quality of the Textbooks is rather questionable as they often have mi
 
 Currently, I am going through an SAT Prep offered by STEAM every Tuesday from September to November for the November test. I didn't take the August test and delayed it to November because I don't feel all that confident with my current knowledge and there weren’t any seats for the SAT available nearby for the earlier tests.
 
-### Keptopia
+### Keptopia-1
 Kelptopia-1 is the coding project mentioned earlier, it is a text-based adventure game based on a concept I came up with while talking with my cousin. The story of Kleptopia is based on a dystopian society set in the future where nearly everything is underwater and running on kelp.
 
 Though the development of the game was primarily meant to serve as practice so my programming skills don't become rusty over the summer, I spent a great part of the development time planning out the text and sequence of the game instead of actually programming.
